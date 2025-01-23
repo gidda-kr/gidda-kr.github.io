@@ -11,4 +11,4 @@ permalink: /
 
 ### 최신 글
 
-[낙동강 페놀 사건]()
+[낙동강 페놀 사건](https://gidda-kr.github.io/%EA%B0%95/2025-01-20-phenol.html)
