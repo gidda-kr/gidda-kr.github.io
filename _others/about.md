@@ -1,9 +1,9 @@
 ---
-title: About others
-author: Tao He
-date: 2022-02-04
+title: 더 알아보기
+author: 긷다
+date: 2025-01-23
 category: Jekyll
 layout: post
 ---
 
-This is an about page for "others" in the collections.
+더 알아보기
