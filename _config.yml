@@ -1,7 +1,7 @@
 # Configurations
 title:            긷다
 longtitle:        환경운동의 역사를 긷다
-author:           김민재
+author:           gidda
 email:            gidda.official@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
